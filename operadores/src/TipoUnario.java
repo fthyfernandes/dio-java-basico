@@ -19,6 +19,11 @@ public class TipoUnario {
 
         numero = -5 * (-1);
         System.out.println(numero);
+
+        /*incremento/decremento
+
+        (--numero) Nesse caso está sendo realizado uma precedencia na decrementação (ato instantâneo)
+        (numero--) Nesse caso está sendo realizado uma decrementação após a execução da variável. */
         
     }
     
