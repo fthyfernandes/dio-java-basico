@@ -19,4 +19,11 @@ public class Calculadora {
     public int somar(int numeroUm, int numeroDois) {
         return  numeroUm + numeroDois;
     }
+
+    /* Ase guir, tem um comando para executar no terminal; execute o comando abaixo, 
+    para criar uma documentação de uma classe (o Javadoc é a API responsável por isto):*/
+
+/* javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java */
 }
+
+/*Para finalidades de estudo, acesse: https://glysns.gitbook.io/java-basico/sintaxe/documentacao */
