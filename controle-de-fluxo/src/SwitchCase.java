@@ -1,7 +1,7 @@
 public class SwitchCase {
     
 	public static void main(String[] args) {
-		String sigla = "M";
+		String sigla = "z";
 
 		switch (sigla) {
 		case "P":{
